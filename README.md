@@ -1,11 +1,5 @@
 # TP 3: Facebook ultra lite
 
-A lire impérativement avant de commencer quoi que ce soit, ce sont les règles que vous devrez appliquer tout au long du semestre:
-
-<p align="center">
- <a href="https://gitlab.com/Adrien_Kourganoff/instructions_web_ocres_ing4/-/blob/master/README.md">Règles pour le semestre</a>
-</p>
-
 ## Instructions
 
 ![capture](./capture.png)
